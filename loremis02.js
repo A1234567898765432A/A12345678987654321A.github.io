@@ -8,7 +8,6 @@ function getRandomArbitrary(min, max) {
 window.onload = function(event) {
 	console.log(smilers)
 	smilers.forEach(function(el) {
-		console.log(el)
 		el.style.top = `${getRandomArbitrary(-310, 310)}` + 'px';
 		el.style.left = `${getRandomArbitrary(-310, 310)}` + 'px';
 	})
