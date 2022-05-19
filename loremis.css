@@ -27,6 +27,7 @@ a{
 .navbar{
 	width: 100%;
 	min-height: 10vh;
+	/*im not concerned about anything you do with all this info, but remember that some of those ip`s need to be unlocked for your ip to get to them*/
 	display: flex;
 	align-content: center;
 	justify-content: space-evenly;
